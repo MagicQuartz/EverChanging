@@ -5,7 +5,7 @@
     <p>Run ".\gradlew build" in IntelliJ IDEA Powershell Terminal or Powershell to build this mod, Or download it from Modrinth</p> -->
 
 > [!IMPORTANT]
-> Run `.\gradlew build` in IntelliJ IDEA Powershell Terminal or Powershell to build this mod, Or download it from [Modrinth](https://modrinth.com/mod/everchanging).
+> Run `.\gradlew build` in IntelliJ IDEA Powershell Terminal or Powershell to build this mod, Or download it from [Modrinth](https://modrinth.com/mod/ever-changing).
 
   
 <div align="center">
